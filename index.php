@@ -14,7 +14,7 @@
 <input type="button" value="4" onClick="document.calculator.ans.value+='4'">
 <input type="button" value="5" onClick="document.calculator.ans.value+='5'">
 <input type="button" value="6" onClick="document.calculator.ans.value+='6'">
-</br>xcvxvxcv
+</br>
 <input type="button" value="7" onClick="document.calculator.ans.value+='7'">
 <input type="button" value="8" onClick="document.calculator.ans.value+='8'">
 <input type="button" value="9" onClick="document.calculator.ans.value+='9'">
